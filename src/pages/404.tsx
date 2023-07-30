@@ -1,4 +1,4 @@
-import Othello from "@/components/Othello";
+import Othello from "../components/Othello";
 
 export default function NotFound() {
   return (

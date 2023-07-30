@@ -1,7 +1,5 @@
-import avatar from "@/assets/images/avatar.jpg";
-
-import Profile from "@/docs/profile.mdx";
-import Links from "@/docs/links.mdx";
+import Profile from "../docs/profile.mdx";
+import Links from "../docs/links.mdx";
 
 export default function About() {
   return (

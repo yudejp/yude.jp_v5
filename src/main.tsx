@@ -2,8 +2,8 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import { Routes } from "generouted/react-router";
 
-import Nav from "@/components/Nav";
-import Footer from "@/components/Footer";
+import Nav from "./components/Nav";
+import Footer from "./components/Footer";
 
 import "./base.css";
 

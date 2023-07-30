@@ -1,4 +1,4 @@
-import QuotesWithLogo from "@/components/QuotesWithLogo";
+import QuotesWithLogo from "../components/QuotesWithLogo";
 
 export default function Home() {
   return (
