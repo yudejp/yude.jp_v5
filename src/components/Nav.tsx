@@ -12,7 +12,7 @@ export default function Nav() {
         <a href="/about">
           <span className="text-4xl">A</span>bout
         </a>
-        <a className="ml-4" href="/blog">
+        <a className="ml-4" href="https://yudejp.hatenablog.jp">
           <span className="text-4xl">B</span>log
         </a>
       </div>
