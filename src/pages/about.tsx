@@ -1,10 +1,9 @@
-import Profile from "../docs/profile.mdx";
-import Links from "../docs/links.mdx";
+import Doc from "../docs/profile.mdx";
 
 export default function About() {
   return (
     <>
-      <p className="mt-5 text-2xl font-serif">プロフィール</p>
+      <p className="mt-5 text-2xl font-serif">About</p>
       <hr />
 
       <div className="flex justify-center mt-5 text-center">
@@ -15,16 +14,7 @@ export default function About() {
       </div>
       <div className="flex justify-center">
         <div className="prose prose-zinc mt-5 prose-headings:text-center prose-headings:underline prose-headings:text-pink-100 prose-a:text-pink-100 max-w-3xl text-pink-100">
-          <Profile />
-        </div>
-      </div>
-
-      <p className="mt-5 text-2xl font-serif">リンク</p>
-      <hr />
-
-      <div className="flex justify-center">
-        <div className="prose prose-zinc mt-5 prose-headings:text-center prose-headings:underline prose-headings:text-pink-100 prose-a:text-pink-100 max-w-3xl text-pink-100">
-          <Links />
+          <Doc />
         </div>
       </div>
     </>
