@@ -60,60 +60,67 @@ export default function QuotesWithLogo() {
 
   return (
     <>
-      <div className="max-w-xs">
-        <span className="text-ellipsis overflow-hidden">
-          <a href={data && data.source}>
-            <span className="block text-lg">{data && data.title}</span>
-            <span className="block truncate">{data && data.artist}</span>
-          </a>
-        </span>
-        <img
-          src="/assets/images/avatar.jpg"
-          className="rounded-lg grayscale blur-sm hover:blur-none"
-          onClick={fetchData}
-        />
-      </div>
-      <div>
-        <div
-          className="text-xl mt-12 max-h-40"
-          style={{
-            fontFamily: "serif",
-            textShadow: `1px 1px 3px gray`,
-          }}
-        >
-          {data && (
-            <motion.div
-              key={data.text}
+      <div className="max-w-md">
+        <div style={{ maxWidth: "180px" }}>
+          <span className="text-ellipsis overflow-hidden">
+            <a href={data && data.source}>
+              <span className="block text-lg">{data && data.title}</span>
+              <span className="block truncate">{data && data.artist}</span>
+            </a>
+          </span>
+        </div>
+        <div className="flex flex-row items-start max-h-64">
+          <div className="basis-1/2">
+            <img
+              src="/assets/images/avatar.jpg"
+              className="rounded-lg grayscale blur-sm hover:blur-none"
+              onClick={fetchData}
               style={{
-                display: "flex",
-                flexWrap: "wrap",
-                writingMode: "vertical-rl",
+                maxWidth: "200px",
               }}
-              variants={container}
-              initial="hidden"
-              animate="visible"
-            >
-              {Array.from(data.text).map((letter, index) => {
-                return (
-                  <>
-                    {(data.text.charAt(index - 1).match(regex_cjk) &&
-                      letter.match(" ")) ||
-                    data.text.charAt(index - 1).match("って") ? (
-                      <div style={{ flexBasis: "100%", height: 0 }}></div>
-                    ) : (
-                      ""
-                    )}
-                    <motion.p variants={child} key={index}>
-                      {!data.text.charAt(index - 1).match(regex_cjk) &&
-                      letter == " "
-                        ? " "
-                        : letter}
-                    </motion.p>
-                  </>
-                );
-              })}
-            </motion.div>
-          )}
+            />
+          </div>
+          <div
+            className="text-xl basis-1/2"
+            style={{
+              fontFamily: "serif",
+              textShadow: `1px 1px 3px gray`,
+            }}
+          >
+            {data && (
+              <motion.div
+                key={data.text}
+                style={{
+                  display: "flex",
+                  flexWrap: "wrap",
+                  writingMode: "vertical-rl",
+                }}
+                variants={container}
+                initial="hidden"
+                animate="visible"
+              >
+                {Array.from(data.text).map((letter, index) => {
+                  return (
+                    <>
+                      {(data.text.charAt(index - 1).match(regex_cjk) &&
+                        letter.match(" ")) ||
+                      data.text.charAt(index - 1).match("って") ? (
+                        <div style={{ flexBasis: "100%", height: 0 }}></div>
+                      ) : (
+                        ""
+                      )}
+                      <motion.p variants={child} key={index}>
+                        {!data.text.charAt(index - 1).match(regex_cjk) &&
+                        letter == " "
+                          ? "\u00A0"
+                          : letter}
+                      </motion.p>
+                    </>
+                  );
+                })}
+              </motion.div>
+            )}
+          </div>
         </div>
       </div>
     </>

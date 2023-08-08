@@ -9,10 +9,12 @@ import "./base.css";
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
   <React.StrictMode>
-    <Nav />
-    <div className="m-5">
-      <Routes />
+    <div className="mx-auto max-w-[600px]">
+      <Nav />
+      <div className="mx-9">
+        <Routes />
+      </div>
+      <Footer />
     </div>
-    <Footer />
   </React.StrictMode>
 );

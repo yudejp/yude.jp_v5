@@ -5,10 +5,10 @@ import { Helmet } from "react-helmet";
 export default function Profile() {
   return (
     <>
-    <Helmet>
-      <title>👤 プロフィール | yude.jp</title>
-    </Helmet>
-      <p className="mt-5 text-2xl font-serif">About</p>
+      <Helmet>
+        <title>👤 プロフィール | yude.jp</title>
+      </Helmet>
+      <p className="mt-5 text-2xl font-serif">👤 プロフィール</p>
       <hr />
 
       <div className="flex justify-center mt-5 text-center">
@@ -18,7 +18,7 @@ export default function Profile() {
         </div>
       </div>
       <div className="flex justify-center">
-        <div className="prose prose-zinc mt-5 prose-headings:text-center prose-headings:underline prose-headings:text-pink-100 prose-a:text-pink-100 max-w-3xl text-pink-100">
+        <div className="prose prose-zinc mt-5 prose-headings:text-center prose-headings:underline prose-headings:text-pink-100 prose-a:text-pink-100 max-w-3xl text-pink-100 prose-code:text-blue-100">
           <Doc />
         </div>
       </div>
