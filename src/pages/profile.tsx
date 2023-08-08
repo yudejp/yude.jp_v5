@@ -1,6 +1,6 @@
 import Doc from "../docs/profile.mdx";
 
-export default function About() {
+export default function Profile() {
   return (
     <>
       <p className="mt-5 text-2xl font-serif">About</p>

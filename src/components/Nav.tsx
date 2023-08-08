@@ -9,14 +9,14 @@ export default function Nav() {
         </a>
       </div>
       <div className="basis-3/4 text-right underline mt-4">
-        <a href="/about">
-          <span className="text-3xl">A</span>bout
+        <a href="/about" className="block">
+          <span className="text-3xl">プ</span>ロフィール
         </a>
-        <a className="ml-4" href="https://yudejp.hatenablog.jp">
-          <span className="text-3xl">B</span>log
+        <a href="/links" className="block">
+          <span className="text-3xl">リ</span>ンク
         </a>
-        <a className="ml-4" href="/links">
-          <span className="text-3xl">L</span>inks
+        <a href="https://yudejp.hatenablog.jp" className="block">
+          <span className="text-3xl">ブ</span>ログ
         </a>
       </div>
     </div>
