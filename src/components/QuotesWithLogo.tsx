@@ -55,13 +55,16 @@ export default function QuotesWithLogo() {
     fetchData();
   }, []);
 
+  const regex_cjk =
+    /[\u3040-\u30ff\u3400-\u4dbf\u4e00-\u9fff\uf900-\ufaff\uff66-\uff9f\u3131-\uD79D]/;
+
   return (
     <>
       <div className="max-w-xs">
         <span className="text-ellipsis overflow-hidden">
           <a href={data && data.source}>
             <span className="block text-lg">{data && data.title}</span>
-            {data && data.artist}
+            <span className="block truncate">{data && data.artist}</span>
           </a>
         </span>
         <img
@@ -72,7 +75,7 @@ export default function QuotesWithLogo() {
       </div>
       <div>
         <div
-          className="text-xl mt-7 max-h-40"
+          className="text-xl mt-12 max-h-40"
           style={{
             fontFamily: "serif",
             textShadow: `1px 1px 3px gray`,
@@ -82,18 +85,33 @@ export default function QuotesWithLogo() {
             <motion.div
               key={data.text}
               style={{
-                display: "inline-flex",
+                display: "flex",
+                flexWrap: "wrap",
                 writingMode: "vertical-rl",
               }}
               variants={container}
               initial="hidden"
               animate="visible"
             >
-              {Array.from(data.text).map((letter, index) => (
-                <motion.p variants={child} key={index}>
-                  {letter === " " ? "\u00A0" : letter}
-                </motion.p>
-              ))}
+              {Array.from(data.text).map((letter, index) => {
+                return (
+                  <>
+                    {(data.text.charAt(index - 1).match(regex_cjk) &&
+                      letter.match(" ")) ||
+                    data.text.charAt(index - 1).match("って") ? (
+                      <div style={{ flexBasis: "100%", height: 0 }}></div>
+                    ) : (
+                      ""
+                    )}
+                    <motion.p variants={child} key={index}>
+                      {!data.text.charAt(index - 1).match(regex_cjk) &&
+                      letter == " "
+                        ? " "
+                        : letter}
+                    </motion.p>
+                  </>
+                );
+              })}
             </motion.div>
           )}
         </div>
