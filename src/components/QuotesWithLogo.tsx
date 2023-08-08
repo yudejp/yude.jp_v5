@@ -60,17 +60,19 @@ export default function QuotesWithLogo() {
       <div className="max-w-xs">
         <span className="text-ellipsis overflow-hidden">
           <a href={data && data.source}>
-            {data && data.artist} / {data && data.title}
+            <span className="block text-lg">{data && data.title}</span>
+            {data && data.artist}
           </a>
         </span>
         <img
           src="/assets/images/avatar.jpg"
           className="rounded-lg grayscale blur-sm hover:blur-none"
+          onClick={fetchData}
         />
       </div>
       <div>
         <div
-          className="text-xl mt-7"
+          className="text-xl mt-7 max-h-40"
           style={{
             fontFamily: "serif",
             textShadow: `1px 1px 3px gray`,
