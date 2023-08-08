@@ -1,8 +1,13 @@
 import Doc from "../docs/profile.mdx";
 
+import { Helmet } from "react-helmet";
+
 export default function Profile() {
   return (
     <>
+    <Helmet>
+      <title>👤 プロフィール | yude.jp</title>
+    </Helmet>
       <p className="mt-5 text-2xl font-serif">About</p>
       <hr />
 

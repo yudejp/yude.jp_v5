@@ -1,8 +1,13 @@
 import Doc from "../docs/links.mdx";
 
+import { Helmet } from "react-helmet";
+
 export default function Link() {
   return (
     <>
+    <Helmet>
+      <title>🔗 リンク | yude.jp</title>
+    </Helmet>
       <p className="mt-5 text-2xl font-serif">Links</p>
       <hr />
 

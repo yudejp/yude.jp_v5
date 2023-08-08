@@ -1,4 +1,4 @@
-export default function Logo() {
+export default function Footer() {
   return (
     <>
     <div className="ml-5 mr-5 mt-[50px] mb-5">
