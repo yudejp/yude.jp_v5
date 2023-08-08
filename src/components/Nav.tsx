@@ -9,7 +9,7 @@ export default function Nav() {
         </a>
       </div>
       <div className="basis-3/4 text-right underline mt-4">
-        <a href="/about" className="block">
+        <a href="/profile" className="block">
           <span className="text-3xl">プ</span>ロフィール
         </a>
         <a href="/links" className="block">
