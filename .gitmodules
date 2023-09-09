@@ -1,0 +1,3 @@
+[submodule "themes/hook"]
+path = themes/hook
+url = https://github.com/yude/zola-hook
