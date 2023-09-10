@@ -23,5 +23,4 @@ highlight_code = true
 links = [
     { title = "👤 プロフィール", href = "/profile" },
     { title = "🔗 リンク", href = "/links" },
-    { title = "📔 ブログ", href = "https://yudejp.hatenablog.jp/" },
 ]
