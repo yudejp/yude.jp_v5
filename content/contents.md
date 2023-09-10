@@ -10,6 +10,10 @@ extra.in_header = false
 - [教え](https://yudejp.hatenablog.jp/entry/2023/07/30/164110) (2023/7/30)
 - [腰痛](https://yudejp.hatenablog.jp/entry/2023/04/28/223323) (2023/4/28)
 
+## 🔧 Zenn: [yude](https://zenn.dev/yude)
+
+- [Mastodon インスタンスをセットアップする](https://zenn.dev/yude/articles/installing-mastodon)
+
 ## 🌿 Scrapbox: [油田](https://scrapbox.io/yude)
 
 ### 🎮 ゲーム
