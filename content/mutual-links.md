@@ -10,33 +10,33 @@ extra.in_header = false
 ## yude.jp をリンクしてくださる方へ
 
 ありがとうございます! 以下のバナーを利用することができます (任意)。\
-[![yude.jp](/assets/images/banner_new.png)](https://yude.jp/images/banner_new.png)
+[![yude.jp](/images/banner_new.png)](https://yude.jp/images/banner_new.png)
 
 ## 相互リンク
 
 以下に [yude.jp](https://yude.jp) と相互リンクをしている Web サイト様を示します。
 
 - カービィ ★KIRBY の家 (カービィ ★KIRBY さん)\
-  [![kirby3ds](/assets/images/mutual-links/kirby3ds.png)](https://exout.net/~kirby3ds/)
+  [![kirby3ds](/images/mutual-links/kirby3ds.png)](https://exout.net/~kirby3ds/)
 
 - こーげんやさい (高原のな さん)\
-  [![こーげんやさい](/assets/images/mutual-links/nona-takahara.png)](https://nona-takahara.github.io/)
+  [![こーげんやさい](/images/mutual-links/nona-takahara.png)](https://nona-takahara.github.io/)
 
 - pepepper の雑記帳 (pepepper さん)\
-  [![pepepperの雑記帳](/assets/images/mutual-links/pepepper.png)](https://www.pepepper.net/)
+  [![pepepperの雑記帳](/images/mutual-links/pepepper.png)](https://www.pepepper.net/)
 
 - Arakawa Laboratory (Sora Arakawa さん)
 
   <a href="https://arkw.net/">
     <img
-      src="/assets/images/mutual-links/arkwnet.png"
+      src="/images/mutual-links/arkwnet.png"
       width="230"
       alt="Arakawa Laboratory"
     />
   </a>
 
 - nullc.at (NullCat / Hinano さん)\
-  [![nullc.at](/assets/images/mutual-links/nullcat.png)](https://nullc.at)
+  [![nullc.at](/images/mutual-links/nullcat.png)](https://nullc.at)
 
 - Zopfcode (puhitaku さん)\
   [Zopfcode](https://www.zopfco.de/)
@@ -45,20 +45,20 @@ extra.in_header = false
 
   <a href="https://sasakulab.com/">
     <img
-      src="/assets/images/mutual-links/sasakulab.png"
+      src="/images/mutual-links/sasakulab.png"
       width="230"
       alt="Sasakulab"
     />
   </a>
 
 - KRIS.FAIL (Kris さん)\
-  [![KRIS.FAIL](/assets/images/mutual-links/kris_fail.png)](https://kris.fail/)
+  [![KRIS.FAIL](/images/mutual-links/kris_fail.png)](https://kris.fail/)
 
 - KusaReMKN.com (KusaReMKN さん)
 
   <a href="https://kusaremkn.com/">
     <img
-      src="/assets/images/mutual-links/kusaremkn.webp"
+      src="/images/mutual-links/kusaremkn.webp"
       width="230"
       alt="KusaReMKN.com"
     />
@@ -74,7 +74,7 @@ extra.in_header = false
   [Aumy](https://fuku.day/)
 
 - qqey.net (hihumikan さん)\
-  [![qqey.net](/assets/images/mutual-links/qqeynet.png)](https://www.qqey.net/)
+  [![qqey.net](/images/mutual-links/qqeynet.png)](https://www.qqey.net/)
 
 - mythfinder (haxibami さん)\
   [mythfinder](https://www.haxibami.net/)
@@ -114,7 +114,7 @@ extra.in_header = false
   [いけぺ〜のホームページ](https://ikepe.xyz/index.html)
 
 - yank-nvim.com (yank.nvim さん)\
-  [![yank-nvim.com](/assets/images/mutual-links/yank-nvim.png)](https://yank-nvim.com/links)
+  [![yank-nvim.com](/images/mutual-links/yank-nvim.png)](https://yank-nvim.com/links)
 
 - shigu.jp (しぐま さん)\
   [shigu.jp](https://shigu.jp)
