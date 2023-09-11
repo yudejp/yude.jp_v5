@@ -13,7 +13,7 @@ extra.in_header = false
 ## 🔧 Zenn: [yude](https://zenn.dev/yude)
 
 - [Mastodon インスタンスをセットアップする](https://zenn.dev/yude/articles/installing-mastodon)
-- [また Arch Linux をインストールしようとしている私へ](https://zenn.dev/yude/articles/installing-arch-linux)
+- [Arch Linux のインストール](https://zenn.dev/yude/articles/installing-arch-linux)
 
 ## 🌿 Scrapbox: [油田](https://scrapbox.io/yude)
 
