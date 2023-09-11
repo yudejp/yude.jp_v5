@@ -13,6 +13,7 @@ extra.in_header = false
 ## 🔧 Zenn: [yude](https://zenn.dev/yude)
 
 - [Mastodon インスタンスをセットアップする](https://zenn.dev/yude/articles/installing-mastodon)
+- [また Arch Linux をインストールしようとしている私へ](https://zenn.dev/yude/articles/installing-arch-linux)
 
 ## 🌿 Scrapbox: [油田](https://scrapbox.io/yude)
 
@@ -60,6 +61,10 @@ extra.in_header = false
 
 - [コマンド プロンプトで Tab 補完が効くようにする](https://scrapbox.io/yude/%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89_%E3%83%97%E3%83%AD%E3%83%B3%E3%83%97%E3%83%88%E3%81%A7_Tab_%E8%A3%9C%E5%AE%8C%E3%81%8C%E5%8A%B9%E3%81%8F%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B)
 - [Windows で無効にするサービス](https://scrapbox.io/yude/Windows_%E3%81%A7%E7%84%A1%E5%8A%B9%E3%81%AB%E3%81%99%E3%82%8B%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)
+- [組織のセキュリティ ポリシーによって非認証のゲスト アクセスがブロックされているため、この共有フォルダーにアクセスできません。](https://scrapbox.io/yude/%E7%B5%84%E7%B9%94%E3%81%AE%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3_%E3%83%9D%E3%83%AA%E3%82%B7%E3%83%BC%E3%81%AB%E3%82%88%E3%81%A3%E3%81%A6%E9%9D%9E%E8%AA%8D%E8%A8%BC%E3%81%AE%E3%82%B2%E3%82%B9%E3%83%88_%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%8C%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%81%95%E3%82%8C%E3%81%A6%E3%81%84%E3%82%8B%E3%81%9F%E3%82%81%E3%80%81%E3%81%93%E3%81%AE%E5%85%B1%E6%9C%89%E3%83%95%E3%82%A9%E3%83%AB%E3%83%80%E3%83%BC%E3%81%AB%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%9B%E3%82%93%E3%80%82)
+- [Windows 10 で「診断データ」のオプションがグレーアウトして選択できない](https://scrapbox.io/yude/Windows_10_%E3%81%A7%E3%80%8C%E8%A8%BA%E6%96%AD%E3%83%87%E3%83%BC%E3%82%BF%E3%80%8D%E3%81%AE%E3%82%AA%E3%83%97%E3%82%B7%E3%83%A7%E3%83%B3%E3%81%8C%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%A2%E3%82%A6%E3%83%88%E3%81%97%E3%81%A6%E9%81%B8%E6%8A%9E%E3%81%A7%E3%81%8D%E3%81%AA%E3%81%84)
+- [Windows で無効化できるタスク](https://scrapbox.io/yude/Windows_%E3%81%A7%E7%84%A1%E5%8A%B9%E5%8C%96%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%BF%E3%82%B9%E3%82%AF)
+- [VMware Workstation Player で Windows 9x 系を動かす](https://scrapbox.io/yude/VMware_Workstation_Player_%E3%81%A7_Windows_9x_%E7%B3%BB%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99)
 
 #### サーバー ソフトウェア
 
