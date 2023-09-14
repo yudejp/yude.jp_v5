@@ -18,6 +18,7 @@ extra.in_header = false
 
 ## 資格・免許
 
+- プロジェクトセカイ カラフルステージ feat. 初音ミク フルコンボ楽曲 (MASTER) 200曲 (2023/6)
 - TOEIC Listening & Reading (オフライン) 860 点 (2022/12)
 - IPA 基本情報技術者 (2022/4)
 - TOEIC Listening & Reading (IP テスト) 960 点 (2021/12)
