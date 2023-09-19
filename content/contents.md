@@ -9,6 +9,7 @@ extra.in_header = false
 - [10 年前にタイムカプセルを埋めて、発掘しようとしました](https://yudejp.hatenablog.jp/entry/2023/08/14/213246) (2023/8/14)
 - [教え](https://yudejp.hatenablog.jp/entry/2023/07/30/164110) (2023/7/30)
 - [腰痛](https://yudejp.hatenablog.jp/entry/2023/04/28/223323) (2023/4/28)
+- [2022 总结 & 2023 展望](https://yudejp.hatenablog.jp/entry/2023/09/19/143612) (2022/12/25)
 
 ## 🔧 Zenn: [yude](https://zenn.dev/yude)
 
