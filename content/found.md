@@ -4,7 +4,7 @@ title = "🔖 yude.jp と記載のある端末等を見つけた方へ"
 extra.in_header = false
 +++
 
-![yude.jp と記載のある端末等の例](/images/found.png)
+<img src="/images/found.png" height="300px" width="100%" style="object-fit: cover;">
 
 ## これは何ですか？
 
