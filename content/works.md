@@ -69,6 +69,9 @@ extra.in_header = false
 - [ichidaisai/old-kanri-chan: 広島市立大学 大学祭 Discord サーバー 管理用ボット](https://github.com/ichidaisai/old-kanri-chan)\
     広島市立大学 大学祭の裏方で使用している Discord サーバーで稼働していたボット (2022年度)
 
+- [yude/telnetter: Internet Explorer -5.0](https://github.com/yude/telnetter)\
+    シンプルな telnet サーバもどき
+
 - [yude/discordpy-text2speech: 👄 Discord simple text-to-speech Bot](https://github.com/yude/discordpy-text2speech)\
     Discord の TTS ボット (アーカイブ済み)
 
