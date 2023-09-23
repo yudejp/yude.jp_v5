@@ -9,8 +9,9 @@ build_search_index = true
 
 theme = "hook"
 
-title = "yude.jp"
+title = "yude のページ"
 description = "こんなとこ見てないで"
+
 
 [markdown]
 # Whether to do syntax highlighting
@@ -24,3 +25,5 @@ links = [
     { title = "👤 プロフィール", href = "/profile" },
     { title = "🔗 リンク", href = "/links" },
 ]
+
+ogp = "https://og-image.eyemono.moe/yude%20%E3%81%AE%E3%83%9A%E3%83%BC%E3%82%B8.png?pattern=none&md=1&fontSize=125px&textColor=%23404040&textStrongColor=%238340BB&overlay=https%3A%2F%2Fimages.microcms-assets.io%2Fassets%2Ff1f77e2dbfee45faa90eb70c5b4445f3%2Feaeec4b7b07641d183ca90c4b070e5fe%2FOGP%25E7%2594%25BB%25E5%2583%258F%28W1200xH630%29.png"
