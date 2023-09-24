@@ -1,5 +1,6 @@
 +++
 title = "📓 コンテンツ"
+description = "yude による、Web 上に存在するコンテンツ"
 
 [extra]
 ogp_image = "https://og-image.eyemono.moe/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84.png?pattern=none&md=1&fontSize=75px&textColor=%23404040&textStrongColor=%238340BB&overlay=https%3A%2F%2Fimages.microcms-assets.io%252Fassets%252Ff1f77e2dbfee45faa90eb70c5b4445f3%252Feaeec4b7b07641d183ca90c4b070e5fe%252FOGP%2525E7%252594%2525BB%2525E5%252583%25258F%2528W1200xH630%2529.png"
