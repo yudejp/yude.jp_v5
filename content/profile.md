@@ -68,7 +68,7 @@ extra.in_header = false
     - [情報ネットワーク研究室](http://www.net.info.hiroshima-cu.ac.jp/) (2022/10 - 2023/3)
     - [センシング講座 ネットワークソフトウェアグループ (舟阪研究室)](https://funahcu.github.io/funalab/) (2023/4 -)
   - サークル / クラブ / 同好会
-    - [いちぴろ・エクスプローラ](https://x.com/hcu_tech)
+    - [いちぴろ・エクスプローラ](https://x.com/hcu_tech) (2023/11 - )
     - [プログラミング同好会](https://twitter.com/HCU_ProgramClub) (2020/4 -)
     - [ノベルゲーム研究会](https://twitter.com/hcunovelgame) (2020/4 -)
     - [大学祭実行委員会](https://ichidaisai.com) システム局 (2022/4 - 2023/3)
