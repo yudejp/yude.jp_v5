@@ -12,6 +12,12 @@
 
 <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=yude1119&width=400" width="563" height="495" />\
 
+---
+
+この Web サイトは [Zola](https://www.getzola.org/) で生成されており、ソースコードは [GitHub リポジトリ](https://github.com/yudejp/yude.jp) から閲覧できます。
+
+&copy; 2023 yude. All rights reserved.<br>
+Its content is available under the [Creative Commons BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0/deed.ja) and the source code is licensed under [The MIT License](https://opensource.org/license/mit/).
 
 <img alt="Moe Counter" src="https://moe-counter.yude.jp/get/@:yude" width="315" height="100" />
 <img alt="happybusy" src="/images/busy_banner.webp" width="200" height="40" />
