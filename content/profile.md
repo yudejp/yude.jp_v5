@@ -18,7 +18,6 @@ extra.in_header = false
 
 - [広島市立大学](https://www.hiroshima-cu.ac.jp/) [情報科学部](https://www2.info.hiroshima-cu.ac.jp/) [情報工学科](https://www.hiroshima-cu.ac.jp/department/sciences/info/) 学部 4 年
   - [センシング講座 ネットワークソフトウェアグループ](https://funahcu.github.io/funalab/)
-  - [いちぴろ・エクスプローラ](https://x.com/hcu_tech) (2023/11 - )
 - [Brain Hackers](https://github.com/brain-hackers/README)
 - [電子計算機総合研究所 (ECRI)](https://github.com/TeamECRI/)
 
