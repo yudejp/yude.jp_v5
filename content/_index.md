@@ -1,7 +1,9 @@
 +++
 +++
 
-こんにちは！
+<p style="font-size: 300%"><a href="https://pjsekai.sega.jp/character/unite04/nene/index.html">草薙寧々</a></p>
+
+こんにちは、yude のページへようこそ。
 
 - [💓 相互リンク](/mutual-links)
 - [📓 コンテンツ](/contents)

@@ -10,7 +10,7 @@ build_search_index = true
 theme = "hook"
 
 title = "yude のページ"
-description = "こんなとこ見てないで"
+description = "こんなとこ見てないで、謳って"
 
 
 [markdown]

@@ -10,6 +10,7 @@ extra.in_header = false
 
 ## 📒 はてなブログ: [ゆでてブログ](https://yudejp.hatenablog.jp)
 
+- [Firefox で Twitter Web App と TweetDeck のセッションを分ける](https://yudejp.hatenablog.jp/entry/2023/11/02/082506)
 - [10 年前にタイムカプセルを埋めて、発掘しようとしました](https://yudejp.hatenablog.jp/entry/2023/08/14/213246) (2023/8/14)
 - [教え](https://yudejp.hatenablog.jp/entry/2023/07/30/164110) (2023/7/30)
 - [腰痛](https://yudejp.hatenablog.jp/entry/2023/04/28/223323) (2023/4/28)

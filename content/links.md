@@ -8,7 +8,7 @@ ogp_image = "https://og-image.eyemono.moe/%E3%83%AA%E3%83%B3%E3%82%AF.png?patter
 extra.in_header = false
 +++
 
-## yude.jp
+## yude.jp 上のサービス
 
 - [Mastodon インスタンス: mstdn.soine.site](https://mstdn.soine.site)
 - [Discord サーバー](https://discord.gg/X6srY7X)

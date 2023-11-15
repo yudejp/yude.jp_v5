@@ -51,6 +51,9 @@ extra.in_header = false
 
 ## ソフトウェア
 
+- yude/wave2attend: NFC タグを用いた、出席状況の共有
+  - [GitHub リポジトリ](https://github.com/yude/wave2attend)
+
 - [yude/descit: 🤩 ChatGPT describes your error](https://github.com/yude/descit)\
     CLI 上に表示されるエラーを ChatGPT にそのまま投げる
 
