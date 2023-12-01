@@ -42,12 +42,12 @@ extra.in_header = false
 ## ゲーム
 
 - [夏色リフレイン](https://hcunovelgame.itch.io/natsuiro) (共同制作)\
-    広島市立大学 ノベルゲーム研究会で制作したゲーム; コード、パッケージング担当
+    [広島市立大学 ノベルゲーム研究会](https://x.com/hcunovelgame)で制作したゲーム; コード、パッケージング担当
 
 ## フリーペーパー
 
 - [Dispatch Place](https://masukendp.github.io/)\
-    広島市立大学 マスコミ研究会 で制作している部誌への寄稿 (vol. 40 - 43)
+    [広島市立大学 マスコミ研究会](https://x.com/masukenDP) で制作している部誌への寄稿 (vol. 40 - 43)
 
 ## ソフトウェア
 

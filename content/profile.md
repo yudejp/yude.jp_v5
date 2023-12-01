@@ -65,7 +65,7 @@ extra.in_header = false
   - 学科 / 研究室
     - [情報工学科](https://www.hiroshima-cu.ac.jp/department/sciences/info/) (2021/4 -)
     - [情報ネットワーク研究室](http://www.net.info.hiroshima-cu.ac.jp/) (2022/10 - 2023/3)
-    - [センシング講座 ネットワークソフトウェアグループ (舟阪研究室)](https://funahcu.github.io/funalab/) (2023/4 -)
+    - [センシング講座 ネットワークソフトウェア研究グループ](https://funahcu.github.io/funalab/) (2023/4 -)
   - サークル / クラブ / 同好会
     - [いちぴろ・エクスプローラ](https://x.com/hcu_tech) (2023/11 - )
     - [プログラミング同好会](https://twitter.com/HCU_ProgramClub) (2020/4 -)

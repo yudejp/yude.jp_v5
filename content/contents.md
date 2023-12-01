@@ -21,6 +21,14 @@ extra.in_header = false
 - [Mastodon インスタンスをセットアップする](https://zenn.dev/yude/articles/installing-mastodon)
 - [Arch Linux のインストール](https://zenn.dev/yude/articles/installing-arch-linux)
 
+## ✋ しずかなインターネット: [yude](https://sizu.me/yude)
+
+## 🎧 Spotify: [yude](https://open.spotify.com/user/yude1119?si=8dd7e1455c1d4da5)
+
+- [だらり](https://open.spotify.com/playlist/5IlqRlenwTWKxfvMteqwpT?si=9fdd9f6504b44d4f)
+- [萌え禁止](https://open.spotify.com/playlist/73xtnevaToBIvRs33A4Raa?si=802a8a9574d04f3f)
+- [人道中](https://open.spotify.com/playlist/0oNsHVXi4UTVudTtvrCrKm?si=c2e9b0a19bac4a7b)
+
 ## 🌿 Scrapbox: [油田](https://scrapbox.io/yude)
 
 ### 🎮 ゲーム
