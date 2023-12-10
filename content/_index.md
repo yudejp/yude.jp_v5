@@ -9,6 +9,7 @@
 - [📓 コンテンツ](/contents)
 - [💽 制作物](/works)
 - [🔖 `yude.jp` と記載のある端末等を見つけた方へ](/found)
+- [🖼️ 美術館](/museum)
 
 <img alt="Spotify Recently Played" src="https://spotify-recently-played-readme.vercel.app/api?user=yude1119&width=400" width="563" height="495" />\
 
