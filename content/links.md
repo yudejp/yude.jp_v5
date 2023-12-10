@@ -51,6 +51,7 @@ extra.in_header = false
   - [@ HIJ (Hiroshima, Japan)](https://smokeping-hij.yude.jp)
   - [@ TTJ (Tottori, Japan)](https://smokeping-ttj.yude.jp)
   - [@ HND (Tokyo, Japan)](https://smokeping-hnd.yude.jp)
+- [Miniflux](https://miniflux.soine.site/)
 
 ## その他
 
