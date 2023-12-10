@@ -8,7 +8,7 @@ ogp_image = "https://og-image.eyemono.moe/%E3%83%AA%E3%83%B3%E3%82%AF.png?patter
 extra.in_header = false
 +++
 
-## yude.jp 上のサービス
+## 主要な公開サービス
 
 - [Mastodon インスタンス: mstdn.soine.site](https://mstdn.soine.site)
 - [Discord サーバー](https://discord.gg/X6srY7X)
@@ -29,15 +29,28 @@ extra.in_header = false
 - [Tor](http://yudejpwxp2cziclocqjfd55ucw2dh6ncswopluh7exwusjlfkvkwhwqd.onion)
 - [I2P](http://yude.i2p/?i2paddresshelper=idabfrazqbh7upvo2f5hx3ajpqglrwny66qbvcoatfqoq64ifiaq.b32.i2p)
 - Gemini: <code>gemini://yude.jp</code>
-- Telnet: <code>telnet://yude.jp</code>
 
-## サービス
+## セルフホスティング
 
 - Minecraft サーバー
   - アドレス: `yude.jp`
-  - バージョン: 最新
+  - バージョン: [最新 @ ghcr.io/yude/paper-docker](https://github.com/yudejp/paper-docker)
 - TeamSpeak 3 サーバー
   - アドレス: `yude.jp`
+- Piping Server
+  - [p.yude.jp](https://p.yude.jp/)
+  - [r.yude.jp](https://r.yude.jp/)
+- [Gitea]((https://git.soine.site/))
+- [WBO](https://board.soine.site/)
+- [Wallabag](https://wallabag.soine.site/)
+- [Grafana](https://grafana.yude.jp/)
+- [Navidrome](https://navidrome.yude.jp/)
+- [Overleaf](https://overleaf.yude.jp/)
+- [Nextcloud](https://nc.soine.site/)
+- SmokePing
+  - [@ HIJ (Hiroshima, Japan)](https://smokeping-hij.yude.jp)
+  - [@ TTJ (Tottori, Japan)](https://smokeping-ttj.yude.jp)
+  - [@ HND (Tokyo, Japan)](https://smokeping-hnd.yude.jp)
 
 ## その他
 
