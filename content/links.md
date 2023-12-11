@@ -52,6 +52,7 @@ extra.in_header = false
   - [@ TTJ (Tottori, Japan)](https://smokeping-ttj.yude.jp)
   - [@ HND (Tokyo, Japan)](https://smokeping-hnd.yude.jp)
 - [Miniflux](https://miniflux.soine.site/)
+- [Vaultwarden](https://vault.yude.jp/)
 
 ## その他
 
