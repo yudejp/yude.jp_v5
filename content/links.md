@@ -40,7 +40,7 @@ extra.in_header = false
 - Piping Server
   - [p.yude.jp](https://p.yude.jp/)
   - [r.yude.jp](https://r.yude.jp/)
-- [Gitea]((https://git.soine.site/))
+- [Gitea](https://git.soine.site/)
 - [WBO](https://board.soine.site/)
 - [Wallabag](https://wallabag.soine.site/)
 - [Grafana](https://grafana.yude.jp/)
@@ -53,6 +53,13 @@ extra.in_header = false
   - [@ HND (Tokyo, Japan)](https://smokeping-hnd.yude.jp)
 - [Miniflux](https://miniflux.soine.site/)
 - [Vaultwarden](https://vault.yude.jp/)
+- [Gotify](https://gotify.yude.jp/)
+- [moe-counter](https://moe-counter.yude.jp/)
+- [LiveStreamDVR](https://liverec.yude.jp/)
+- [Owncast](https://live.yude.jp/)
+- [HedgeDoc](https://docs.soine.site/)
+
+
 
 ## その他
 
