@@ -8,7 +8,7 @@ ogp_image = "https://og-image.eyemono.moe/yude.jp%20%E3%81%A8%E8%A8%98%E8%BC%89%
 extra.in_header = false
 +++
 
-<img src="/images/found.png" height="300px" width="100%" style="object-fit: cover;">
+<img src="/images/found.png" style="object-fit: cover; height: 300px; width: 100%">
 
 ## これは何ですか？
 
