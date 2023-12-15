@@ -58,8 +58,9 @@ extra.in_header = false
 - [LiveStreamDVR](https://liverec.yude.jp/)
 - [Owncast](https://live.yude.jp/)
 - [HedgeDoc](https://docs.soine.site/)
-
-
+- [Jenkins](https://jenkins.yude.jp/)
+- [CouchDB](https://couch.yude.jp/)
+- [GoCD](https://gocd.yude.jp/)
 
 ## その他
 
