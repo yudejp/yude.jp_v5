@@ -36,7 +36,7 @@ extra.in_header = false
       src="/images/mutual-links/arkwnet.png"
       width="230"
       alt="Arakawa Laboratory"
-    />
+    >
   </a>
 
 - nullc.at (NullCat / Hinano さん)\
@@ -52,7 +52,7 @@ extra.in_header = false
       src="/images/mutual-links/sasakulab.png"
       width="230"
       alt="Sasakulab"
-    />
+    >
   </a>
 
 - KRIS.FAIL (Kris さん)\
@@ -65,7 +65,7 @@ extra.in_header = false
       src="/images/mutual-links/kusaremkn.webp"
       width="230"
       alt="KusaReMKN.com"
-    />
+    >
   </a>
 
 - rz7.dev (azure さん)\
