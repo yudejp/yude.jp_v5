@@ -41,7 +41,7 @@
 </style>
 
 <div class="text-marquee__container">
-    <div class="text-marquee__text">
+    <div class="text-marquee__text" style="white-space: nowrap;">
         <p class="per-egg">🥚</p><p class="per-egg">🐣</p><p class="per-egg">🍳</p><p class="per-egg">🐣</p><p class="per-egg">🥚</p><p class="per-egg">🐣</p><p class="per-egg">🍳</p><p class="per-egg">🐣</p><p class="per-egg">🥚</p>
     </div>
 
