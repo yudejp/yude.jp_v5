@@ -2,6 +2,21 @@
 +++
 
 <style>
+    .text-marquee__container {
+        overflow: hidden;
+    }
+
+    .text-marquee__text {
+        transform: translateX(100%);
+        animation: marquee 8s linear infinite;
+    }
+
+    .per-egg {
+        animation: rotate-egg 2s linear infinite;
+        display: inline-block;
+        font-size: 300%;
+    }
+    
     @keyframes rotate-egg {
         0% {
             transform: rotate(0deg);
@@ -10,33 +25,26 @@
             transform: rotate(360deg);
         }
     }
-    .egg-animation {
-        font-size: 500%;
-        animation: rotate-egg 5s linear infinite;
-        display: inline-block;
-    }
 
-    @keyframes move-eggs {
+    @keyframes marquee {
         0% {
-            transform: translateX(0);
-        }
-        50% {
-            transform: translateX(300px);
+            -moz-transform: translateX(100%);
+            -webkit-transform: translateX(100%);
+            transform: translateX(100%);
         }
         100% {
-            transform: translateX(0);
+            -moz-transform: translateX(-100%);
+            -webkit-transform: translateX(-100%);
+            transform: translateX(-100%);
         }
-    }
-    .egg-animations {
-        display: inline-block;
-        animation: move-eggs 5s linear infinite;
     }
 </style>
 
-<div class="egg-animations">
-    <span class="egg-animation">🥚</span>
-    <span class="egg-animation">🐣</span>
-    <span class="egg-animation">🍳</span>
+<div class="text-marquee__container">
+    <div class="text-marquee__text">
+        <p class="per-egg">🥚</p><p class="per-egg">🐣</p><p class="per-egg">🍳</p><p class="per-egg">🐣</p><p class="per-egg">🥚</p><p class="per-egg">🐣</p><p class="per-egg">🍳</p><p class="per-egg">🐣</p><p class="per-egg">🥚</p>
+    </div>
+
 </div>
 
 こんにちは、yude のページへようこそ。ご案内します。
