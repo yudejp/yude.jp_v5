@@ -91,3 +91,7 @@ extra.in_header = false
 - [鳥取市立北中学校](https://sites.google.com/g.torikyo.ed.jp/torin-jhp/) (2014/4 - 2017/3)
   - [弓道部](https://sites.google.com/g.torikyo.ed.jp/torin-jhp/%E9%83%A8%E6%B4%BB%E5%8B%95/%E5%90%84%E9%83%A8%E5%B9%B4%E9%96%93%E6%B4%BB%E5%8B%95%E8%A8%88%E7%94%BB?authuser=0) (2014/4 - 2016/6)
     - 東部地区中学校新人弓道大会 男子個人の部 1 位 (2015/9/26)
+
+## その他
+
+  - [vCards](/yude.vcf)

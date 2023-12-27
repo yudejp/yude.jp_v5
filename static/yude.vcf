@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 17.2.1//EN
+N:;yude;;;
+FN:yude
+item1.EMAIL;type=INTERNET;type=pref:yude@e.hiroshima-cu.ac.jp
+item1.X-ABLabel:_$!<School>!$_
+EMAIL;type=INTERNET;type=HOME:i@yude.jp
+TEL;type=CELL;type=VOICE;type=pref:070 8909 1949
+X-SOCIALPROFILE;type=LINE;x-user=yudejp:x-apple:yudejp
+X-SOCIALPROFILE;type=GitHub;x-user=yude:x-apple:yude
+X-SOCIALPROFILE;type=Discord;x-user=yude:x-apple:yude
+X-SOCIALPROFILE;type=Telegram;x-user=yudejp:x-apple:yudejp
+X-SOCIALPROFILE;type=X;x-user=yude_jp:x-apple:yude_jp
+item2.URL;type=pref:https://www.yude.jp
+item2.X-ABLabel:_$!<HomePage>!$_
+BDAY:2001-11-19
+END:VCARD
