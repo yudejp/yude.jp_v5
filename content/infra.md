@@ -8,7 +8,7 @@ ogp_image = "https://og-image.eyemono.moe/インフラストラクチャ.png?pat
 extra.in_header = false
 +++
 
-# 利用中の技術
+## 利用中の技術
 
 すべてのサービスに共通して関係している技術は、主に次の通りです。
 
@@ -27,6 +27,30 @@ extra.in_header = false
     - [NEC UNIVERGE IX](https://jpn.nec.com/univerge/ix/index.html): ルーター
     - [Schneider Electric APC UPS](https://www.apc.com/jp/ja/product-category/88972-%E7%84%A1%E5%81%9C%E9%9B%BB%E9%9B%BB%E6%BA%90%E8%A3%85%E7%BD%AEups/): 無停電電源装置
 
-# 関連リンク
+## オンプレミス環境
 
-- [yude.jp Load averages 1-5-15 ダッシュボード](https://p.datadoghq.com/sb/itx9gobm2tj17qjx-25c40e62040b0958ab3aad7ce773803b?refresh_mode=sliding&theme=light&from_ts=1702880892848&to_ts=1702884492848&live=true)
+以下の地点に、yude.jp のオンプレミス環境が存在します。
+
+### [HIJ](https://hij.yude.jp/) (Hiroshima, Japan)
+
+- 所属サーバー: [maple](https://scrapbox.io/yude/maple)
+- インターネット回線: [@George 有線インターネットサービス](https://www.george24.com/service/george.php)
+
+### [TTJ](https://ttj.yude.jp/) (Tottori, Japan)
+
+- 所属サーバー: [sakyu](https://scrapbox.io/yude/sakyu), [nashi](https://scrapbox.io/yude/nashi)
+- インターネット回線: [NTT西日本 フレッツ 光ネクスト (ぷらら)](https://flets-w.com/service/next/)
+
+### [HND](https://hnd.yude.jp/) (Tokyo, Japan)
+
+- 所属サーバー: [bway](https://scrapbox.io/yude/bway)
+- インターネット回線: [NTT東日本 フレッツ 光ネクスト (ぷらら)](https://flets.com/next/index.html)
+
+## 関連リンク
+
+- [Load averages 1-5-15 ダッシュボード](https://p.datadoghq.com/sb/itx9gobm2tj17qjx-25c40e62040b0958ab3aad7ce773803b?refresh_mode=sliding&theme=light&from_ts=1702880892848&to_ts=1702884492848&live=true)\
+    yude.jp を構成するすべてのサーバーの Load averages の推移を公開しています。
+- [障害ログ (Discord テキストチャンネル)](https://discord.gg/fJbE5PWuY7)\
+    yude.jp で発生したすべての障害のログが記録されています。
+- [公開ステータスページ](https://status.yude.jp/)\
+    整頓された障害情報のページです。
