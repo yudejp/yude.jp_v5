@@ -77,5 +77,5 @@
 &copy; 2023 yude<br>
 このウェブサイトのコンテンツは [Creative Commons BY-SA 3.0 DEED](https://creativecommons.org/licenses/by-sa/3.0/deed.ja)、ソースコードは [The MIT License](https://opensource.org/license/mit/) のもとでそれぞれ利用できます。しかし、[yude](https://www.yude.jp) <code><span><</span>i@yude.jp<span>></span></code> 以外によって作成されたデータについてはこの限りではありません。
 
-<img alt="Moe Counter" src="https://moe-counter.yude.jp/get/@:yude" width="315" height="100" >
+<img alt="Moe Counter" src="https://moe-counter-cf.yude.workers.dev/yude.jp:home" width="315" height="100" >
 <img alt="happybusy" src="/images/busy_banner.webp" width="200" height="40" >
